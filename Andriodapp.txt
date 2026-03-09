@@ -1,23 +1,23 @@
 payload:
-  - PROCESS-NAME,com.connect.enduser
-  - PROCESS-NAME,com.tencent.wework
-  - PROCESS-NAME,com.tencent.mm
-  - PROCESS-NAME,com.tencent.wetype
-  - PROCESS-NAME,cn.com.cmbc.newmbank
-  - PROCESS-NAME,com.xingin.xhs
-  - PROCESS-NAME,com.jd.app.reader
-  - PROCESS-NAME,com.szgov.entrance
-  - PROCESS-NAME,cn.samsclub.app
-  - PROCESS-NAME,com.thestore.main
-  - PROCESS-NAME,com.jingdong.app.mall
-  - PROCESS-NAME,com.wudaokou.hippo
-  - PROCESS-NAME,com.ss.android.article.lite
-  - PROCESS-NAME,com.baidu.BaiduMap
-  - PROCESS-NAME,com.eg.android.AlipayGphon
-  - PROCESS-NAME,com.taobao.taobao
-  - PROCESS-NAME,com.kugou.android
-  - PROCESS-NAME,com.alibaba.android.rimet
-  - PROCESS-NAME,com.ct.client
-  - PROCESS-NAME,com.iflytek.elpmobile.student
-  - PROCESS-NAME,com.rt.market.fresh
-  - PROCESS-NAME,com.tencent.mobileqq
+  - PROCESS-NAME,com.connect.enduser #Hik-Connect
+  - PROCESS-NAME,com.tencent.wework #企业微信
+  - PROCESS-NAME,com.tencent.mm #微信
+  - PROCESS-NAME,com.tencent.wetype #微信输入法
+  - PROCESS-NAME,cn.com.cmbc.newmbank #民生银行
+  - PROCESS-NAME,com.xingin.xhs #小红书
+  - PROCESS-NAME,com.jd.app.reader #京东读书
+  - PROCESS-NAME,com.szgov.entrance #苏周到
+  - PROCESS-NAME,cn.samsclub.app #山姆会员店
+  - PROCESS-NAME,com.thestore.main #1号店
+  - PROCESS-NAME,com.jingdong.app.mall #京东
+  - PROCESS-NAME,com.wudaokou.hippo #盒马鲜生
+  - PROCESS-NAME,com.ss.android.article.lite #今日头条极速版
+  - PROCESS-NAME,com.baidu.BaiduMap #百度地图
+  - PROCESS-NAME,com.eg.android.AlipayGphon #支付宝
+  - PROCESS-NAME,com.taobao.taobao #淘宝
+  - PROCESS-NAME,com.kugou.android #酷狗音乐
+  - PROCESS-NAME,com.alibaba.android.rimet #钉钉
+  - PROCESS-NAME,com.ct.client #中国电信
+  - PROCESS-NAME,com.iflytek.elpmobile.student #智学网学生端
+  - PROCESS-NAME,com.rt.market.fresh #大润发优鲜
+  - PROCESS-NAME,com.tencent.mobileqq #手机QQ
