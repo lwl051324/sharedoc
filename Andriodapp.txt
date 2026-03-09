@@ -3,3 +3,9 @@ payload:
   - PROCESS-NAME,com.tencent.wework
   - PROCESS-NAME,com.tencent.wetype
   - PROCESS-NAME,cn.com.cmbc.newmbank
+  - PROCESS-NAME,com.xingin.xhs
+  - PROCESS-NAME,com.jd.app.reader
+  - PROCESS-NAME,com.tencent.wework
+  - PROCESS-NAME,com.szgov.entrance
+  - PROCESS-NAME,cn.samsclub.app
+  - PROCESS-NAME,com.tencent.wetype
