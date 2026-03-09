@@ -1,11 +1,23 @@
 payload:
   - PROCESS-NAME,com.connect.enduser
   - PROCESS-NAME,com.tencent.wework
+  - PROCESS-NAME,com.tencent.mm
   - PROCESS-NAME,com.tencent.wetype
   - PROCESS-NAME,cn.com.cmbc.newmbank
   - PROCESS-NAME,com.xingin.xhs
   - PROCESS-NAME,com.jd.app.reader
-  - PROCESS-NAME,com.tencent.wework
   - PROCESS-NAME,com.szgov.entrance
   - PROCESS-NAME,cn.samsclub.app
-  - PROCESS-NAME,com.tencent.wetype
+  - PROCESS-NAME,com.thestore.main
+  - PROCESS-NAME,com.jingdong.app.mall
+  - PROCESS-NAME,com.wudaokou.hippo
+  - PROCESS-NAME,com.ss.android.article.lite
+  - PROCESS-NAME,com.baidu.BaiduMap
+  - PROCESS-NAME,com.eg.android.AlipayGphon
+  - PROCESS-NAME,com.taobao.taobao
+  - PROCESS-NAME,com.kugou.android
+  - PROCESS-NAME,com.alibaba.android.rimet
+  - PROCESS-NAME,com.ct.client
+  - PROCESS-NAME,com.iflytek.elpmobile.student
+  - PROCESS-NAME,com.rt.market.fresh
+  - PROCESS-NAME,com.tencent.mobileqq
